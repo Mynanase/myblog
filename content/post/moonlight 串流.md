@@ -13,14 +13,14 @@ share: true
 
 打开 GAMESTREAM 界面，可自行设置串流的软件，建议设置一个桌面菜单，以串流整个桌面。
 
-![image.png|660](https://article.biliimg.com/bfs/article/6aad54c49a165baf53597d2318d217a56b6569d1.png)
+![g3iz9500500](https://obsidian-1317142608.cos.ap-nanjing.myqcloud.com/obsidian/g3iz9.png?imageSlim)
 
 桌面的一般位置为
 ```
 C:\Windows\System32\mstsc.exe
 ```
 
-![image.png|660](https://article.biliimg.com/bfs/article/05769d99b76d127010b946f243056abd0906eeb2.png)
+![4xqae500500](https://obsidian-1317142608.cos.ap-nanjing.myqcloud.com/obsidian/4xqae.png?imageSlim)
 
 # wiiu 串流
 
@@ -33,7 +33,7 @@ C:\Windows\System32\mstsc.exe
 将插件解压，打开文件夹，将 wiiu 文件夹复制到 SD 卡根目录
 继续打开文件夹，找到 moonlight.config 文件，用来配置 moonlight。
 
-![image.png|660](https://article.biliimg.com/bfs/article/50c1ea6a9b33aa0d7773582f382cd6457fbc1e29.png)
+![xt9bw500500](https://obsidian-1317142608.cos.ap-nanjing.myqcloud.com/obsidian/xt9bw.png?imageSlim)
 
 **配置文件一览**
 ```
