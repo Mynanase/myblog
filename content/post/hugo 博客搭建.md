@@ -77,9 +77,9 @@ date modified: 2024-04-02T22:59:36+08:00
 ### Quote
 
 ```md
-{{< quote author="A famous person" source="The book they wrote" url="https://en.wikipedia.org/wiki/Book" >}}
-/* content */
-{{< /quote >}}
+{{< /*quote author="A famous person" source="The book they wrote" url="https://en.wikipedia.org/wiki/Book" */>}}
+content 
+{{</* /quote */>}}
 ```
 
 ## widgets
