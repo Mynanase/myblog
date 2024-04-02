@@ -1,21 +1,12 @@
 ---
 title: hugo 博客搭建
 date: 2024-04-02T08:00:00+08:00
-<<<<<<< HEAD
-tags:
-categories:
-commets:
-share: true
-description:
-image:
-=======
 tags: 
 categories: 
 commets: 
 share: true
 description: 
 image: 
->>>>>>> 8f3a943de0c88d1c670c3e6c5c72d14c021cdcf8
 date modified: 2024-04-02T22:59:36+08:00
 ---
 
