@@ -63,7 +63,8 @@ date modified: 2024-04-02T22:59:36+08:00
 这里的`VIDEO_ID`可以是相对路径和绝对路径.
 
 ### GitLab
-```
+
+```c
 {{< github SNIPPET_ID >}}
 ```
 
