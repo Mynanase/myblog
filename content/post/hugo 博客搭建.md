@@ -60,27 +60,27 @@ date modified: 2024-04-02T22:59:36+08:00
 ### bilibili video
 
 ```markdown
-{{< bilibili VIDEO_ID PART_NUMBER >}}
+{{</* bilibili VIDEO_ID PART_NUMBER */>}}
 ```
 
 ### tencent video
 ```
-{{< tencent VIDEO_ID >}}
+{{</* tencent VIDEO_ID */>}}
 ```
 
 ### YouTube video
-{{< youtube VIDEO_ID >}}
+{{</* youtube VIDEO_ID  */>}}
 ### Video file
 ```
-{{< video VIDEO_URL>}}
-{{< video src="VIDEO_URL" autoplay="true" poster="./video-poster.png" >}}
+{{</* video VIDEO_URL */>}}
+{{</* video src="VIDEO_URL" autoplay="true" poster="./video-poster.png" */>}}
 ```
 这里的`VIDEO_ID`可以是相对路径和绝对路径.
 
 ### GitLab
 
 ```markdown
-{{< gitlab SNIPPET_ID >}}
+{{</* gitlab SNIPPET_ID */>}}
 ```
 
 ### Quote
