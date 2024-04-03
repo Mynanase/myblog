@@ -1,21 +1,12 @@
 ---
 title: hugo 博客搭建
 date: 2024-04-02T08:00:00+08:00
-<<<<<<< HEAD
 tags:
 categories:
 commets:
 share: true
 description:
 image:
-=======
-tags: 
-categories: 
-commets: 
-share: true
-description: 
-image: 
->>>>>>> 37acbda63e6ae2afca54b0716524f3dce7e547ac
 date modified: 2024-04-02T22:59:36+08:00
 ---
 
@@ -60,13 +51,7 @@ date modified: 2024-04-02T22:59:36+08:00
 
 ### bilibili video
 
-<<<<<<< HEAD
 {{< bilibili BV1GA411y71Q 1 >}}
-=======
-```markdown
-{{</* bilibili VIDEO_ID PART_NUMBER */>}}
-```
->>>>>>> 37acbda63e6ae2afca54b0716524f3dce7e547ac
 
 ### tencent video
 
@@ -75,13 +60,11 @@ date modified: 2024-04-02T22:59:36+08:00
 ```
 
 ### YouTube video
-<<<<<<< HEAD
 
-{{< youtube VIDEO_ID >}}
+```
+{{</* youtube VIDEO_ID */>}}
+```
 
-=======
-{{</* youtube VIDEO_ID  */>}}
->>>>>>> 37acbda63e6ae2afca54b0716524f3dce7e547ac
 ### Video file
 
 ```
@@ -101,7 +84,7 @@ date modified: 2024-04-02T22:59:36+08:00
 
 ```md
 {{</* quote author="A famous person" source="The book they wrote" url="https://en.wikipedia.org/wiki/Book" */>}}
-content 
+content
 {{</* /quote */>}}
 ```
 
