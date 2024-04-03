@@ -1,12 +1,21 @@
 ---
 title: hugo 博客搭建
 date: 2024-04-02T08:00:00+08:00
+<<<<<<< HEAD
 tags:
 categories:
 commets:
 share: true
 description:
 image:
+=======
+tags: 
+categories: 
+commets: 
+share: true
+description: 
+image: 
+>>>>>>> 37acbda63e6ae2afca54b0716524f3dce7e547ac
 date modified: 2024-04-02T22:59:36+08:00
 ---
 
@@ -51,23 +60,33 @@ date modified: 2024-04-02T22:59:36+08:00
 
 ### bilibili video
 
+<<<<<<< HEAD
 {{< bilibili BV1GA411y71Q 1 >}}
+=======
+```markdown
+{{</* bilibili VIDEO_ID PART_NUMBER */>}}
+```
+>>>>>>> 37acbda63e6ae2afca54b0716524f3dce7e547ac
 
 ### tencent video
 
 ```
-{{< tencent VIDEO_ID >}}
+{{</* tencent VIDEO_ID */>}}
 ```
 
 ### YouTube video
+<<<<<<< HEAD
 
 {{< youtube VIDEO_ID >}}
 
+=======
+{{</* youtube VIDEO_ID  */>}}
+>>>>>>> 37acbda63e6ae2afca54b0716524f3dce7e547ac
 ### Video file
 
 ```
-{{< video VIDEO_URL>}}
-{{< video src="VIDEO_URL" autoplay="true" poster="./video-poster.png" >}}
+{{</* video VIDEO_URL */>}}
+{{</* video src="VIDEO_URL" autoplay="true" poster="./video-poster.png" */>}}
 ```
 
 这里的`VIDEO_ID`可以是相对路径和绝对路径.
@@ -75,15 +94,15 @@ date modified: 2024-04-02T22:59:36+08:00
 ### GitLab
 
 ```markdown
-{{< gitlab SNIPPET_ID >}}
+{{</* gitlab SNIPPET_ID */>}}
 ```
 
 ### Quote
 
-```
-{{< quote author="A famous person" source="The book they wrote" url="https://en.wikipedia.org/wiki/Book">}}
-content
-{{< /quote >}}
+```md
+{{</* quote author="A famous person" source="The book they wrote" url="https://en.wikipedia.org/wiki/Book" */>}}
+content 
+{{</* /quote */>}}
 ```
 
 ## widgets
