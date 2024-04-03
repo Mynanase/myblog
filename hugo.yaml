@@ -241,3 +241,6 @@ markup:
     lineNos: true
     lineNumbersInTable: true
     tabWidth: 4
+    renderHooks:
+      link:
+        enableDefault: false

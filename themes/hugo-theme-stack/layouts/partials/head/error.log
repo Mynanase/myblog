@@ -1,0 +1,7 @@
+TypeError: Cannot read properties of undefined (reading 'webContents')
+    at a (C:\Users\ASUS\AppData\Local\123pan\resources\app.asar\el\main\index.js:5:30002)
+    at ChildProcess.<anonymous> (C:\Users\ASUS\AppData\Local\123pan\resources\app.asar\el\main\index.js:5:29519)
+    at ChildProcess.emit (node:events:390:28)
+    at ChildProcess.emit (node:domain:475:12)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5)

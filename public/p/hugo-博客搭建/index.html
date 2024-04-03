@@ -6,13 +6,15 @@
 
 <link rel='canonical' href='http://localhost:1313/p/hugo-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/'>
 
-<link rel="stylesheet" href="/scss/style.min.b90fe9fc6936675c0e4ec01d88766d918d0e0aa2d959d131169ca02f68c27c9d.css"><meta property='og:title' content="hugo 博客搭建">
+<link rel="stylesheet" href="/scss/style.min.84b78b15cdee95afedd7102345c4b9ad8493cb030cd89205b29cf98712567cb7.css"><meta property='og:title' content="hugo 博客搭建">
 <meta property='og:description' content="# stack 主题文档 # frontmatter configs # discription type: string 对文章的描述 # image # commets Type: bool # license Type: string|bool 一般情况下 False 隐藏就好 # math Type: bool 使用 KaTeX 进行渲染 # toc Type: bool 确保该页面至少有一个一级标题 # readingtime">
 <meta property='og:url' content='http://localhost:1313/p/hugo-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/'>
 <meta property='og:site_name' content='Kosmos'>
 <meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-04-02T08:00:00&#43;08:00'/><meta property='article:modified_time' content='2024-04-02T08:00:00&#43;08:00'/>
 <meta name="twitter:title" content="hugo 博客搭建">
-<meta name="twitter:description" content="# stack 主题文档 # frontmatter configs # discription type: string 对文章的描述 # image # commets Type: bool # license Type: string|bool 一般情况下 False 隐藏就好 # math Type: bool 使用 KaTeX 进行渲染 # toc Type: bool 确保该页面至少有一个一级标题 # readingtime">
+<meta name="twitter:description" content="# stack 主题文档 # frontmatter configs # discription type: string 对文章的描述 # image # commets Type: bool # license Type: string|bool 一般情况下 False 隐藏就好 # math Type: bool 使用 KaTeX 进行渲染 # toc Type: bool 确保该页面至少有一个一级标题 # readingtime"><link rel='stylesheet'
+    href='https://ik.imagekit.io/eosmos/QiushuiShotai%20Bright/result.css' />
+    
     </head>
     <body class="
     article-page
@@ -410,34 +412,30 @@
 <h3 id="bilibili-video">
     <a href="#bilibili-video" class="header-anchor">#</a>
     bilibili video
-</h3><div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">
+</h3><style>
+    .meta-media {
+        position: relative;
+        margin-bottom: 30px;
+        display: flex;
+        width: 100%;
+        height: 0;
+        padding-bottom: 75%;
+    }
 
-
-
-
-
-    <p>Bilibili 视频av号或BV号错误！请检查视频av号或BV号是否正确</p>
-    <p>当前视频av或BV号：VIDEO_ID，视频分P：PART_NUMBER</p>
-
-
-<div class="video-wrapper">
-    <iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;high_quality=1&amp;page=PART_NUMBER&"
-            scrolling="no"
-            frameborder="no"
-            framespacing="0"
-            allowfullscreen="true"
-    >
+    .video {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+</style>
+<div class="meta-media">
+    <iframe src="&high_quality=1" frameborder="no" scrolling="yes" allowfullscreen="allowfullscreen"
+        high_quality="1" framespacing="1" class="video">
     </iframe>
 </div>
-
-</span></span></code></pre></td></tr></table>
-</div>
-</div><h3 id="tencent-video">
+<h3 id="tencent-video">
     <a href="#tencent-video" class="header-anchor">#</a>
     tencent video
 </h3><div class="highlight"><div class="chroma">
@@ -460,12 +458,7 @@
 </div><h3 id="youtube-video">
     <a href="#youtube-video" class="header-anchor">#</a>
     YouTube video
-</h3><div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl"><div class="video-wrapper">
+</h3><div class="video-wrapper">
     <iframe loading="lazy" 
             src="https://www.youtube.com/embed/VIDEO_ID" 
             allowfullscreen 
@@ -474,9 +467,7 @@
     </iframe>
 </div>
 
-</span></span></code></pre></td></tr></table>
-</div>
-</div><h3 id="video-file">
+<h3 id="video-file">
     <a href="#video-file" class="header-anchor">#</a>
     Video file
 </h3><div class="highlight"><div class="chroma">

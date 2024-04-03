@@ -1,21 +1,12 @@
 ---
 title: hugo 博客搭建
 date: 2024-04-02T08:00:00+08:00
-<<<<<<< HEAD
 tags:
 categories:
 commets:
 share: true
 description:
 image:
-=======
-tags: 
-categories: 
-commets: 
-share: true
-description: 
-image: 
->>>>>>> 8f3a943de0c88d1c670c3e6c5c72d14c021cdcf8
 date modified: 2024-04-02T22:59:36+08:00
 ---
 
@@ -45,6 +36,7 @@ date modified: 2024-04-02T22:59:36+08:00
 - 使用 KaTeX 进行渲染
 
 ### toc
+
 - Type: `bool`
 - 确保该页面至少有一个一级标题
 
@@ -59,22 +51,25 @@ date modified: 2024-04-02T22:59:36+08:00
 
 ### bilibili video
 
-```markdown
-{{< bilibili VIDEO_ID PART_NUMBER >}}
-```
+{{< bilibili BV1GA411y71Q 1 >}}
 
 ### tencent video
+
 ```
 {{< tencent VIDEO_ID >}}
 ```
 
 ### YouTube video
+
 {{< youtube VIDEO_ID >}}
+
 ### Video file
+
 ```
 {{< video VIDEO_URL>}}
 {{< video src="VIDEO_URL" autoplay="true" poster="./video-poster.png" >}}
 ```
+
 这里的`VIDEO_ID`可以是相对路径和绝对路径.
 
 ### GitLab
