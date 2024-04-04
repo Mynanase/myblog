@@ -2,9 +2,10 @@
 title: Wiiu破解和模拟器
 date: 2023-08-18T21:29:27+08:00
 tags:
-  - game
-  - technique
-categories: 
+  - wiiu
+  - 模拟器
+categories:
+  - 技术
 commets: 
 share: true
 description: 
