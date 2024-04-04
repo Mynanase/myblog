@@ -270,6 +270,52 @@ page 文件夹. 像主页, 关于等组件, [[它们本事就是由]] &lt;code&g
 &lt;/div&gt;</description>
         </item>
         <item>
+        <title>测试</title>
+        <link>http://localhost:1313/p/%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E6%B5%8B%E8%AF%95/</guid>
+        <description>&lt;h1 id=&#34;链接&#34;&gt;
+    &lt;a href=&#34;#%e9%93%be%e6%8e%a5&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    链接
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.baidu.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;baidu.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;粗体&lt;/strong&gt;
+&lt;em&gt;斜体&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;h1&#34;&gt;
+    &lt;a href=&#34;#h1&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    h1
+&lt;/h1&gt;&lt;h2 id=&#34;h2&#34;&gt;
+    &lt;a href=&#34;#h2&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    h2
+&lt;/h2&gt;&lt;h3 id=&#34;h3&#34;&gt;
+    &lt;a href=&#34;#h3&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    h3
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;item 1&lt;/li&gt;
+&lt;li&gt;item 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;item 1&lt;/li&gt;
+&lt;li&gt;item 2&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;ds&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;dsd&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;numpy&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;np&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 测试代码块中的中文字体&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
         <title>收藏</title>
         <link>http://localhost:1313/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>

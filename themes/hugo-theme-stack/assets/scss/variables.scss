@@ -1,5 +1,5 @@
-$defaultTagBackgrounds: #8ea885, #df7988, #0177b8, #ffb900, #6b69d6;
-$defaultTagColors: #fff, #fff, #fff, #fff, #fff;
+$defaultTagBackgrounds: #f3c2d9,#de694c,#d80835,#c59ac5, #b8bdcc, #2874af,#192159,#fcde5f,#e4c863, #1c8d6c,#468c37,#895d31, #a6abb6,#f1f2e5;
+$defaultTagColors:#fff,#fff,#fff,#fff,#fff,#fff,#fff,#fff #fff,#fff,#fff,#fff,#fff,#fff,#fff;
 
 /*
 *   Global style
@@ -18,7 +18,9 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --accent-color-text: #fff;
     --body-text-color: #707070;
 
-    --tag-border-radius: 4px;
+    
+    --tag-border-radius: 20px;
+    --category-border-radius: 4px;
 
     --section-separation: 40px;
 
@@ -44,7 +46,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --zh-font-family:  "PingFang SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei";
 
     --base-font-family: "QiushuiShotai Bright", var(--sys-font-family), var(--zh-font-family), sans-serif;
-    --code-font-family: Menlo, Monaco, Consolas, "Courier New", var(--zh-font-family), monospace;
+    --code-font-family: "iMWritingMono Nerd Font Mono","Source Han Serif CN VF" ,Menlo, Monaco, Consolas, "Courier New", var(--zh-font-family), monospace;
 }
 
 /*
@@ -95,7 +97,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --article-font-size: 1.6rem;
 
     @include respond(md) {
-        --article-font-size: 1.7rem;
+        --article-font-size: 1.6rem;
     }
 
     --article-line-height: 1.85;
@@ -117,8 +119,8 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --pre-background-color: #272822;
     --pre-text-color: #f8f8f2;
 
-    --code-background-color: rgba(0, 0, 0, 0.12);
-    --code-text-color: #808080;
+    --code-background-color: #f1f2e5;
+    --code-text-color: rgb(144, 46, 34);
 
     --table-border-color: #dadada;
     --tr-even-background-color: #efefee;
@@ -161,7 +163,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 }
 
 :root {
-    --menu-icon-separation: 40px;
+    --menu-icon-separation:40px;
     --container-padding: 15px;
     --widget-separation: var(--section-separation);
 }
