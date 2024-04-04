@@ -6,9 +6,7 @@ tags:
   - galgame
   - 特教
 categories:
-  - game
-  - galgame
-  - 特教
+  - 技术
 commets: 
 share: true
 description: 
