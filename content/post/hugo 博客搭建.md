@@ -1,5 +1,5 @@
 ---
-title: hugo 博客搭建(暂停施工)
+title: hugo 博客搭建
 date: 2024-04-02T08:00:00+08:00
 tags: 
 categories: 
@@ -8,7 +8,7 @@ commets:
 share: true
 description: 
 image: 
-date modified: 2024-04-14T00:58:27+08:00
+date modified: 2024-04-14T01:17:33+08:00
 ---
 **更新计划**
 - [ ] 评论系统
