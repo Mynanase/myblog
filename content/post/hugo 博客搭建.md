@@ -55,37 +55,37 @@ date modified: 2024-04-14T01:17:33+08:00
 而 stack 主题就预先设计了一些语法.
 ### bilibili video
 ```md
-{{< bilibili VIDEO_ID PART_NUMBER >}}
+{{/*<  bilibili VIDEO_ID PART_NUMBER >*/}}
 ```
 
 ### tencent video
 ```
-{{< tencent VIDEO_ID >}}
+{{/*<  tencent VIDEO_ID  >*/}}
 ```
 
 ### YouTube video
 ```
-{{< youtube VIDEO_ID >}}
+{{/*< youtube VIDEO_ID >*/}}
 ```
 
 ### Video file
 ```
-{{< video VIDEO_URL>}}
-{{< video src="VIDEO_URL" autoplay="true" poster="./video-poster.png" >}}
+{{< video VIDEO_URL */>}}
+{{< video src="VIDEO_URL" autoplay="true" poster="./video-poster.png" */>}}
 ```
 这里的`VIDEO_ID`可以是相对路径和绝对路径.
 
 ### GitLab
 
 ```c
-{{< github SNIPPET_ID >}}
+{{/* < gitlab SNIPPET_ID > */}}
 ```
 
 ### Quote
 ```markdown
-{{< quote author="A famous person" source="The book they wrote" url="https://en.wikipedia.org/wiki/Book">}}
+{{</* quote author="A famous person" source="The book they wrote" url="https://en.wikipedia.org/wiki/Book" */>}}
 content
-{{< /quote >}}
+{{</* /quote */>}}
 ```
 
 ## widgets
