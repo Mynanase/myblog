@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Wiiu on Kosmos (暂停施工...)</title>
+        <link>http://localhost:1313/tags/wiiu/</link>
+        <description>Recent content in Wiiu on Kosmos (暂停施工...)</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>kosmos</copyright>
+        <lastBuildDate>Fri, 18 Aug 2023 21:29:27 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/wiiu/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Wiiu破解和模拟器</title>
+        <link>http://localhost:1313/p/wiiu%E7%A0%B4%E8%A7%A3%E5%92%8C%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
+        <pubDate>Fri, 18 Aug 2023 21:29:27 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/wiiu%E7%A0%B4%E8%A7%A3%E5%92%8C%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
+        <description>&lt;img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=700&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2FtZSUyMGNvbnNvbGV8ZW58MHx8MHx8fDA%3D" alt="Featured image of post Wiiu破解和模拟器" /&gt;&lt;h1 id=&#34;cemu模拟器游戏安装配置&#34;&gt;
+    &lt;a href=&#34;#cemu%e6%a8%a1%e6%8b%9f%e5%99%a8%e6%b8%b8%e6%88%8f%e5%ae%89%e8%a3%85%e9%85%8d%e7%bd%ae&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    Cemu模拟器游戏安装配置
+&lt;/h1&gt;&lt;h2 id=&#34;wiiu-游戏相关的文件介绍&#34;&gt;
+    &lt;a href=&#34;#wiiu-%e6%b8%b8%e6%88%8f%e7%9b%b8%e5%85%b3%e7%9a%84%e6%96%87%e4%bb%b6%e4%bb%8b%e7%bb%8d&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    wiiu 游戏相关的文件介绍
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://obsidian-1317142608.cos.ap-nanjing.myqcloud.com/obsidian/72ge8.jpg?imageSlim&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;72ge8|300&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://obsidian-1317142608.cos.ap-nanjing.myqcloud.com/obsidian/0agf7.jpg?imageSlim&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;0agf7|300&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://obsidian-1317142608.cos.ap-nanjing.myqcloud.com/obsidian/86t6i.jpg?imageSlim&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;86t6i|300|300&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;下载设置&#34;&gt;
+    &lt;a href=&#34;#%e4%b8%8b%e8%bd%bd%e8%ae%be%e7%bd%ae&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    下载设置
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;模拟器下载地址&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://cemu.info/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Cemu Emulator&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;.Wup 转 .rpx工具&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/VitaSmith/cdecrypt/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Releases · VitaSmith/cdecrypt (github.com)&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;格式转换&#34;&gt;
+    &lt;a href=&#34;#%e6%a0%bc%e5%bc%8f%e8%bd%ac%e6%8d%a2&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    格式转换
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;安装 cdeceypt&lt;/li&gt;
+&lt;li&gt;将游戏文件夹中的 &lt;code&gt;*.tik&lt;/code&gt; 拖动至 cdeceypt 程序上即开始转换&lt;/li&gt;
+&lt;li&gt;完成会得到如下格式文件夹&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- code
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- content
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- meta
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;cemu-的目录结构&#34;&gt;
+    &lt;a href=&#34;#cemu-%e7%9a%84%e7%9b%ae%e5%bd%95%e7%bb%93%e6%9e%84&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    Cemu 的目录结构
+&lt;/h2&gt;&lt;p&gt;根目录&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;游戏安装&#34;&gt;
+    &lt;a href=&#34;#%e6%b8%b8%e6%88%8f%e5%ae%89%e8%a3%85&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    游戏安装
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;安装 Cemu 时自选两个位置作为游戏本体文件夹 &lt;code&gt;Game&lt;/code&gt; 和数据文件夹 &lt;code&gt;MLC&lt;/code&gt;. (文件名任意英文)&lt;/li&gt;
+&lt;li&gt;在 Cemu 中安装 rpx 文件，他通常有三个文件夹&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- code
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- content
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- meta
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;在 &lt;code&gt;Game&lt;/code&gt; 下新建一个文件夹，这里以风之杖 &lt;code&gt;The Wind Waker HD&lt;/code&gt; 为例&lt;/li&gt;
+&lt;li&gt;复制以上三个文件夹到 &lt;code&gt;The Wind Waker HD&lt;/code&gt; 下，此时打开 Cemu 以可以看到游戏&lt;/li&gt;
+&lt;li&gt;找到游戏的编号&lt;/li&gt;
+&lt;li&gt;在 MLC/&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;rule文件模板&#34;&gt;
+    &lt;a href=&#34;#rule%e6%96%87%e4%bb%b6%e6%a8%a1%e6%9d%bf&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    rule文件模板
+&lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[Definition]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;titleIds = 000500001019C800
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;name = &amp;#34;塞尔达传说&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;path = &amp;#34;汉化/塞尔达传说黄昏公主HD简中&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;description = 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;version = 4
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;文件设置为标题为 rules 的 text 文件，编码为 ANSI.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

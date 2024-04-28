@@ -1,0 +1,26 @@
+/* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+
+// widget
+.tagCloud {
+    .tagCloud-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+
+        a {
+            background: var(--card-background);
+            box-shadow: var(--shadow-l1);
+            border-radius: var(--tag-border-radius);
+            padding: 4px 10px;
+            color: var(--card-text-color-main);
+            font-size: 1.4rem;
+            transition: box-shadow 0.3s ease;
+
+            &:hover {
+                box-shadow: var(--shadow-l2);
+            }
+        }
+    }
+}
+
+$defaultTagBackgrounds: #f3c2d9, #de694c, #d80835, #c59ac5, #b8bdcc, #2874af, #192159, #fcde5f, #e4c863, #1c8d6c, #468c37, #895d31, #a6abb6, #f1f2e5;

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Kosmos</title>
+        <title>Categories on Kosmos (暂停施工...)</title>
         <link>http://localhost:1313/categories/</link>
-        <description>Recent content in Categories on Kosmos</description>
+        <description>Recent content in Categories on Kosmos (暂停施工...)</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>kosmos</copyright>
@@ -16,12 +16,28 @@
         <description></description>
         </item>
         <item>
-        <title>Test</title>
-        <link>http://localhost:1313/categories/test/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <title>技术</title>
+        <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</link>
+        <pubDate>Tue, 02 Apr 2024 00:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/categories/test/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>美化</title>
+        <link>http://localhost:1313/categories/%E7%BE%8E%E5%8C%96/</link>
+        <pubDate>Fri, 18 Aug 2023 21:29:32 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/%E7%BE%8E%E5%8C%96/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>游戏</title>
+        <link>http://localhost:1313/categories/%E6%B8%B8%E6%88%8F%E6%8A%80%E6%9C%AF/</link>
+        <pubDate>Fri, 18 Aug 2023 21:29:30 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/%E6%B8%B8%E6%88%8F%E6%8A%80%E6%9C%AF/</guid>
+        <description>&lt;img src="https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=700&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGdhbWV8ZW58MHx8MHx8fDA%3D" alt="Featured image of post 游戏" /&gt;</description>
         </item>
         
     </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on Kosmos</title>
+        <title>Pages on Kosmos (暂停施工...)</title>
         <link>http://localhost:1313/page/</link>
-        <description>Recent content in Pages on Kosmos</description>
+        <description>Recent content in Pages on Kosmos (暂停施工...)</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>kosmos</copyright>

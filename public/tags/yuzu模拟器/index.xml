@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Yuzu模拟器 on Kosmos (暂停施工...)</title>
+        <link>http://localhost:1313/tags/yuzu%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
+        <description>Recent content in Yuzu模拟器 on Kosmos (暂停施工...)</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>kosmos</copyright>
+        <lastBuildDate>Fri, 18 Aug 2023 21:29:30 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/yuzu%E6%A8%A1%E6%8B%9F%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>yuzu模拟器</title>
+        <link>http://localhost:1313/p/yuzu%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
+        <pubDate>Fri, 18 Aug 2023 21:29:30 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/yuzu%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
+        <description>&lt;img src="https://images.unsplash.com/photo-1550921464-9f7a27f99edc?w=700&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHN3aXRjaHxlbnwwfHwwfHx8MA%3D%3D" alt="Featured image of post yuzu模拟器" /&gt;&lt;h1 id=&#34;yuzu模拟器配置&#34;&gt;
+    &lt;a href=&#34;#yuzu%e6%a8%a1%e6%8b%9f%e5%99%a8%e9%85%8d%e7%bd%ae&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    yuzu模拟器配置
+&lt;/h1&gt;&lt;h2 id=&#34;user-文件夹&#34;&gt;
+    &lt;a href=&#34;#user-%e6%96%87%e4%bb%b6%e5%a4%b9&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    user 文件夹
+&lt;/h2&gt;&lt;p&gt;这里储存了你的模拟器设置，存档信息等&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;33
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;34
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;35
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;36
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;37
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;38
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;39
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;40
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;41
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;42
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;43
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;44
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;45
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;46
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;47
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;48
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;49
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;50
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;51
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;52
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;53
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;54
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;55
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;56
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;57
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;58
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;59
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;60
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;61
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;62
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;63
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;64
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;65
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;66
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;67
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;68
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;69
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;70
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;user&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cache&lt;/span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;config&lt;/span&gt;    &lt;span class=&#34;c1&#34;&gt;# 包含了Yuzu模拟器的配置文件，包括图形设置、控制器设置和其他选项&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;dump&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;keys&lt;/span&gt;    &lt;span class=&#34;c1&#34;&gt;# 包含了解密任天堂Switch游戏所需的密钥。你需要自己获取这些密钥。&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;load&lt;/span&gt;    &lt;span class=&#34;c1&#34;&gt;# mod 数据存放处&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;010038&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;D0133C2000&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# 不同游戏ID，每个游戏都是固定的&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0100&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;F2C0115B6000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;60&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;fpsBlackscreenFix&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;60&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;fps_stable_static_totk&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ChuckPatch_FSRDisable&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;QualityReduceFix&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Shadow1024&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1008&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;p&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;DynamicFPSv1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;5.1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;VisualFixes_AnisotropicFix_totk&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0100&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;F3400332C000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;log&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;nand&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 包含了Switch控制台的NAND备份。这是在Yuzu模拟器上运行游戏必需的。&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;system&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Contents&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;placehld&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;registered&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;save&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;8000000000000010&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;su&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;               &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;avators&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;user&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Contents&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;placehld&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;registered&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;               &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;00000000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;               &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0000002&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;D&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;               &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;00000030&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;               &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0000006&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;A&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;save&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0000000000000000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;00000000000000000000000000000000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0100152000022000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;692&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;F66FAAD512B74A7B59BA9102A8196&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#### 模拟器可以建立用户，这是相应用户的编码进行重排之后得到的，当模拟器选择不同用户，就会调用不同用户存档进行游戏&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;01007E3006&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;DDA000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0100&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ABF008968000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;9&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;CBBF18F53B18438C44DC1BB383A7884&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0100&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;F2C0115B6000&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# 相应游戏存档地址&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;album&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;picturebook&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;slot_00&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;slot_01&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;slot_02&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;slot_03&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;slot_04&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;slot_05&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;storage&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0100&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;F3400332C000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cache&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;               &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0000000000000000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;                   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;icon&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;                   &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;storage&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;screenshots&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 截图&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sdmc&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;atmosphere&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;contents&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;010038&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;D0133C2000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0100&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;F2C0115B6000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0100&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;F3400332C000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Nintendo&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;       &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Contents&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;placehld&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;           &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;registered&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;├───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;shader&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 着色器&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;│&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;nvidia&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;└───&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tas&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;从上可以看出，许多文件都与游戏 ID 挂钩，之后的操作也都是将补丁，存档等文件复制到相应的编号文件夹下。&lt;/p&gt;
+&lt;h2 id=&#34;模拟器界面介绍&#34;&gt;
+    &lt;a href=&#34;#%e6%a8%a1%e6%8b%9f%e5%99%a8%e7%95%8c%e9%9d%a2%e4%bb%8b%e7%bb%8d&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    模拟器界面介绍
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;右键游戏选择进入存档文件夹，mod 文件夹等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://article.biliimg.com/bfs/article/6ffa62b4145c0210af25afa64c11e7e03190a074.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Pasted image 20230528172007|660|660&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;属性中配置该游戏的局部设定&lt;/li&gt;
+&lt;li&gt;首先会显示游戏的版本，ID，以及右边会显示添加在 Mod 文件下的 mod，勾选即视为打开&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://article.biliimg.com/bfs/article/bfceb2eb3bb646288d32d6cb5eeb2997c8091f10.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Pasted image 20230528172126|660&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;根据自己电脑配置图形，高级图形等设置&lt;/li&gt;
+&lt;li&gt;也可直接进入设置配置全局设置，例如设置手柄映射&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://article.biliimg.com/bfs/article/e5c26c5d1706fc3287c3f14d7cbf7c5a23f77cce.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Pasted image 20230528172656|660|660&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;安装组件&#34;&gt;
+    &lt;a href=&#34;#%e5%ae%89%e8%a3%85%e7%bb%84%e4%bb%b6&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    安装组件
+&lt;/h2&gt;&lt;h3 id=&#34;固件安装&#34;&gt;
+    &lt;a href=&#34;#%e5%9b%ba%e4%bb%b6%e5%ae%89%e8%a3%85&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    固件安装
+&lt;/h3&gt;&lt;p&gt;将固件 Fireware.zip 解压后放在&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user\nand\system\Contents\registered
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;keys-安装&#34;&gt;
+    &lt;a href=&#34;#keys-%e5%ae%89%e8%a3%85&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    keys 安装
+&lt;/h3&gt;&lt;p&gt;解压 prod.zip 得到 prod.keys 文件，放到&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;user\keys
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;游戏安装&#34;&gt;
+    &lt;a href=&#34;#%e6%b8%b8%e6%88%8f%e5%ae%89%e8%a3%85&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    游戏安装
+&lt;/h3&gt;&lt;p&gt;游戏文件主要有两个格式：&lt;code&gt;.nsp&lt;/code&gt; 和 &lt;code&gt;.xci&lt;/code&gt;（还有一种 &lt;code&gt;.nsz&lt;/code&gt;，是一种压缩格式），分别对应数字版和卡带版，没什么区别。
+游戏文件分为三类：本体，补丁(&lt;em&gt;upd&lt;/em&gt;) 和 DLC。
+本体的安装只需要把本体所在路径添加到yuzu的游戏路径就可以。
+upd 和 DLC 的安装点击 文件 :luc_arrow_big_right: 安装在 nand 进行安装。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://article.biliimg.com/bfs/article/227aa6ef5f150606fc1efd130e874a5c8b2f8fbb.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Pasted image 20230528173805|660&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;数据转移备份&#34;&gt;
+    &lt;a href=&#34;#%e6%95%b0%e6%8d%ae%e8%bd%ac%e7%a7%bb%e5%a4%87%e4%bb%bd&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    数据转移备份
+&lt;/h2&gt;&lt;h3 id=&#34;游戏数据&#34;&gt;
+    &lt;a href=&#34;#%e6%b8%b8%e6%88%8f%e6%95%b0%e6%8d%ae&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    游戏数据
+&lt;/h3&gt;&lt;p&gt;备份 save 文件夹下相应游戏 ID 的文件夹即可&lt;/p&gt;
+&lt;h3 id=&#34;模拟器配置&#34;&gt;
+    &lt;a href=&#34;#%e6%a8%a1%e6%8b%9f%e5%99%a8%e9%85%8d%e7%bd%ae&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    模拟器配置
+&lt;/h3&gt;&lt;h2 id=&#34;nscb&#34;&gt;
+    &lt;a href=&#34;#nscb&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    NSCB
+&lt;/h2&gt;&lt;p&gt;之前介绍的先安装游戏，在安装补丁和 dlc 的方式有些繁琐，可以借助工具 &lt;strong&gt;NSCB&lt;/strong&gt; 将他们打包为一个文件，直接 yuzu 运行。还可以将压缩格式 &lt;code&gt;.nsz&lt;/code&gt; 转为可用的 &lt;code&gt;.nsp&lt;/code&gt;。
+利用这个工具可以将本体 + upd + DLC 进行一个整合即可。&lt;/p&gt;
+&lt;h3 id=&#34;nsz-转-nsp&#34;&gt;
+    &lt;a href=&#34;#nsz-%e8%bd%ac-nsp&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    nsz 转 nsp
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;首先将零散的 .nsp 文件放在一个文件夹&lt;/li&gt;
+&lt;li&gt;打开 nscb，输入 8 进入解压/压缩模式&lt;/li&gt;
+&lt;li&gt;拖动文件夹到程序窗口&lt;/li&gt;
+&lt;li&gt;输入指令 1 开始处理，输入 3 直接压缩/解压即可&lt;/li&gt;
+&lt;li&gt;导出文件在 NSCB_output 目录下&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://article.biliimg.com/bfs/article/c9e175271e2b880cf59c00ada6f4ec94ef996711.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;nscp|660&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;打包-nsp&#34;&gt;
+    &lt;a href=&#34;#%e6%89%93%e5%8c%85-nsp&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    打包 nsp
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;将 .nsp 或者 .xci 放在同一个文件夹内&lt;/li&gt;
+&lt;li&gt;输入 2 多文件处理，将文件夹拖入程序窗口&lt;/li&gt;
+&lt;li&gt;输入 1 开始处理&lt;/li&gt;
+&lt;li&gt;输入 1 重新打包为 nsp&lt;/li&gt;
+&lt;li&gt;输入 0 不魔改&lt;/li&gt;
+&lt;li&gt;输入 1 合并为一个文件&lt;/li&gt;
+&lt;li&gt;导出文件在 NSCB_output 目录下&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://article.biliimg.com/bfs/article/35b67ba26a5451ff71b2857be74926d3bcf448bb.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;nscp2 1|660&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

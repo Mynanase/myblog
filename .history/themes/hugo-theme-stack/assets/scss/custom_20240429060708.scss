@@ -1,0 +1,235 @@
+/* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+$defaultTagBackgrounds: #de694c, #d80835, #c59ac5, #2874af, #192159, #1c8d6c, #468c37, #895d31, #a55e5e, #8e44ad, #7b899b, #556270, #274e6e, #4a8126, #7f6d2c, #4e5b55, #2e4051, #c06c70, #BF360C, #E65100, #5D4037, #795548, #43A047, #1976D2, #455A64, #78909C, #DD2C00;
+
+:root {
+    --shadow-tag: 0 4px 6px rgba(0, 0, 0, 0.2), 0 1px 4px rgba(0, 0, 0, 0.08);
+    --shadow-active: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+    --shadow-l2: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+// widget
+.tagCloud {
+
+    .tagCloud-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+
+        a {
+            box-shadow: var(--shadow-l1);
+            border-radius: 16px;
+            padding: 6px 10px;
+            font-size: 1.2rem;
+            transition: box-shadow 0.3s ease;
+
+            &:hover {
+                box-shadow: var(--shadow-tag);
+                transform: translateY(2px);
+                /* 轻微下移，模拟按下效果 */
+            };
+
+            &:active {
+                box-shadow: var(--shadow-active);
+                /* 按下时的阴影，通常更深或更小 */
+                transform: translateY(1px);
+                /* 轻微上移，模拟按下效果 */
+            }
+        }
+    }
+}
+
+.article-category,
+.article-tags {
+    display: flex;
+    gap: 10px;
+
+    a {
+        color: var(--accent-color-text);
+        background-color: var(--accent-color);
+        padding: 6px 10px;
+        border-radius: 16px;
+        display: inline-block;
+        font-size: 1.2rem;
+        transition: background-color 0.5s ease;
+
+        &:hover {
+            color: var(--accent-color-text);
+            background-color: var(--accent-color-darker);
+        }
+    }
+}
+
+.article-category a,.article-tags a, .tagCloud .tagCloud-tags a{
+    @for $i from 1 through length($defaultTagBackgrounds) {
+        &:nth-child(#{$i}) {
+            background-color: nth($defaultTagBackgrounds, random(length($defaultTagBackgrounds)));
+        }
+    };
+
+    color: #fff
+}
+
+.article-list article{
+    @for $i from 1 through length($defaultTagBackgrounds) {
+        &:nth-child(#{length($defaultTagBackgrounds)}n + #{$i}) {
+            .article-category a {
+                background-color: nth($defaultTagBackgrounds, random(length($defaultTagBackgrounds)));
+            }
+        }
+    }
+}
+
+
+
+
+/******************** article ********************/
+// 时间样式
+.article-time time,
+.article-time a,
+.article-translations time,
+.article-translations a {
+    font-size: 1rem;
+    color: var(--card-text-color-tertiary)
+} 
+
+// 鼠标悬浮效果
+.article-list--compact>article:hover .article-image img {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.article-list--compact article>a {
+    display: flex;
+    align-items: flex;
+    padding: 22px;
+    gap: 5px
+}
+
+.article-list--compact article:not(:last-of-type) {
+    border-bottom: 1.5px solid var(--card-separator-color)
+}
+
+.article-list--compact article .article-details {
+    flex-grow: 1;
+    padding: 0;
+    min-height: var(--image-size);
+    gap: 10px
+}
+
+.article-list--compact article .article-title {
+    margin: 0;
+    color: #000;
+    font-size: 1.3rem;
+    font-weight: 700
+}
+
+.article-list--compact article .article-time a{
+    font-size: 1rem
+}
+
+
+
+@media(min-width: 768px) {
+    .article-list article .article-image img {
+        height: 250px
+    }
+
+    .article-list--compact {
+        --image-size: 66px
+    }
+
+    .article-list--compact article .article-title {
+        font-size: 1.3rem
+    }
+
+    .article-list--compact article .article-title {
+        font-size:1.8rem
+    }
+
+    .article-list--compact article .article-title1 {
+        font-size:1.5rem
+    }
+}
+
+
+
+@media(min-width: 1000px) {
+    .article-list--compact {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        background: 0 0;
+        box-shadow: none;
+        gap: 2rem
+    }
+
+    .article-list--compact article {
+        background: var(--card-background);
+        border: none;
+        box-shadow: var(--shadow-l2);
+        margin-bottom: 1.2px;
+        border-radius: 6px
+    }
+}
+
+@media(min-width: 1000px) {
+    .article-list--compact.links {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 5px;
+        background: 0 0;
+        box-shadow: none
+    }
+
+    .article-list--compact.links article {
+        background: var(--card-background);
+        border: none;
+        box-shadow: var(--shadow-l1);
+        margin-bottom: 8px;
+        border-radius: 12px
+    }
+
+    .article-list--compact.links article:nth-child(odd) {
+        margin-right: 8px;
+        margin-left: 8px
+    }
+
+    .article-list--compact article .article-image img {
+        width: 140px;
+        height: 90px;
+        border-radius: 7px;
+        object-fit: cover;
+    }
+}
+
+// 
+
+
+
+
+
+.subsection-list .article-list--tile article {
+    border-radius: 16px;
+    width: 125px;
+    height: 110px;
+    margin-right: 8px;
+    flex-shrink: 0;
+
+    &.has-image .article-details{
+        background:  rgba(0, 0, 0, 0.15) !important;
+        
+
+    }
+
+    .article-details{
+        padding: 15px;
+    }
+
+    .article-image,&.has-image .article-details img{
+        transition: transform 0.3s ease, filter 0.3s ease;
+    }
+
+    .article-image:hover,&.has-image .article-details img{
+        transform: scale(1.05);/* 轻微放大图片 */
+        filter: brightness(1.5);
+    }
+}
