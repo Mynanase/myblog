@@ -1,0 +1,299 @@
+/* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+
+
+// widget
+.tagCloud {
+    .tagCloud-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+
+        a {
+            box-shadow: var(--shadow-l1);
+            border-radius: 4px;
+            padding: 5px 8px;
+            font-size: 1.4rem;
+            transition: box-shadow 0.3s ease;
+
+            &:hover {
+                box-shadow: var(--shadow-tag);
+                transform: translateY(2px);
+                /* 轻微下移，模拟按下效果 */
+            };
+
+            &:active {
+                box-shadow: var(--shadow-active);
+                /* 按下时的阴影，通常更深或更小 */
+                transform: translateY(1px);
+                /* 轻微上移，模拟按下效果 */
+            }
+        }
+    }
+}
+
+.article-category,
+.article-tags {
+    display: flex;
+    gap: 10px;
+
+    a {
+        color: var(--accent-color-text);
+        background-color: var(--accent-color);
+        padding: 5px 8px;
+        border-radius: 5px;
+        display: inline-block;
+        font-size: 1.4rem;
+        transition: background-color 0.5s ease;
+
+        &:hover {
+            color: var(--accent-color-text);
+            background-color: var(--accent-color-darker);
+        }
+    }
+}
+
+.article-category a,.article-tags a, .tagCloud .tagCloud-tags a{
+    @for $i from 1 through length($defaultTagBackgrounds) {
+        &:nth-child(#{$i}) {
+            background-color: nth($defaultTagBackgrounds, random(length($defaultTagBackgrounds)));
+        }
+    };
+    color: #fff
+}
+
+.article-list article{
+    @for $i from 1 through length($defaultTagBackgrounds) {
+        &:nth-child(#{length($defaultTagBackgrounds)}n + #{$i}) {
+            .article-category a {
+                background-color: nth($defaultTagBackgrounds, random(length($defaultTagBackgrounds)));
+            }
+        }
+    }
+}
+
+// 全文字体
+
+.article-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    /* 根据容器宽度自动适应列数，每列最小宽度为300px */
+    gap: var(--section-separation);
+
+    article {
+        display: flex;
+        flex-direction: column;
+        background-color: var(--card-background);
+        box-shadow: var(--shadow-l1);
+        border-radius: var(--card-border-radius);
+        overflow: hidden;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+        &:hover {
+            transform: translateY(-10px);
+            /* 悬浮时向上移动 */
+            box-shadow: var(--shadow-l3);
+            /* 悬浮时增加阴影，您可以根据需要调整阴影的深度 */
+        }
+
+        .article-title {
+            font-size: 2.2rem;
+        }
+
+        .article-image {
+            img {
+                width: 100%;
+                height: 135px;
+                object-fit: cover;
+
+                @include respond(md) {
+                    height: 170px;
+                }
+
+                @include respond(xl) {
+                    height: 205px;
+                }
+            }
+        }
+    }
+}
+
+/******** article ********/
+// 时间样式
+.article-time time,
+.article-time a,
+.article-translations time,
+.article-translations a {
+    font-size: 1.15rem;
+    font-family: "QiushuiShotai Bright";
+    color: var(--card-text-color-tertiary)
+} 
+
+// 鼠标悬浮效果
+.article-list--compact {
+    article:hover .article-image img {
+        transform: scale(1.05);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    }
+
+    article a {
+        display: flex;
+        align-items: flex;
+        padding: 20px;
+        gap: 5px
+    }
+
+    article {
+        .article-title {
+            font-family: 'QiushuiShotai Bright';
+        }
+    }
+    
+}
+
+.article-list--compact article:not(:last-of-type) {
+    border-bottom: 1.5px solid var(--card-separator-color)
+}
+
+@media(min-width: 768px) {
+    .article-list article .article-image img {
+        height: 205px
+    }
+
+    .article-list--compact {
+        --image-size: 66px
+    }
+
+    .article-list--compact article .article-title {
+        font-size: 1.8rem
+    }
+
+    .article-list--compact article .article-title1 {
+        font-size:1.5rem
+    }
+}
+
+
+
+@media(min-width: 1000px) {
+    .article-list--compact {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        background: 0 0;
+        box-shadow: none;
+        gap: 1.5rem
+    }
+
+    .article-list--compact article {
+        background: var(--card-background);
+        border: none;
+        box-shadow: var(--shadow-l2);
+        margin-bottom: 1.2px;
+        border-radius: 6px
+    }
+
+    .article-list--compact.links {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 5px;
+        background: 0 0;
+        box-shadow: none
+    }
+
+    .article-list--compact.links article {
+        background: var(--card-background);
+        border: none;
+        box-shadow: var(--shadow-l1);
+        margin-bottom: 8px;
+        border-radius: 12px
+
+
+    }
+
+    .article-list--compact.links article:nth-child(odd) {
+        margin-right: 8px;
+        margin-left: 8px
+    }
+
+    .article-list--compact article .article-image img {
+        width: 140px;
+        height: 90px;
+        border-radius: 7px;
+        object-fit: cover;
+    }
+}
+
+// category 界面
+
+.subsection-list .article-list--tile article {
+    border-radius: 16px;
+    width: 180px;
+    height: 140px;
+    margin-right: 8px;
+    flex-shrink: 0;
+
+    &.has-image .article-details{
+        background:  rgba(0, 0, 0, 0.2) !important;  
+    }
+
+    .article-details{ 
+        padding: 20px;
+        transition: transform 0.3s ease;
+    }
+    .article-details:hover {
+        transform: scale(1.05);
+    }
+    .article-title{
+        font-family: "YouSheShaYuFeiTeJianKangTi";
+        font-size: 2.2rem;
+    }
+}
+
+.section-card {
+    .section-image img{
+        width: 120px ;
+        height: 100px ;
+        border-radius: 10px;
+        object-fit: cover;
+    }
+
+    .section-term {
+        font-size: 3rem;
+        font-family: "YouSheShaYuFeiTeJianKangTi";
+    }
+
+    .section-description {
+        font-family: "Zhuque Fangsong (technical preview)";
+        font-size: 1.6rem;
+    }
+
+    .section-count {
+        font-family: "PangMenZhengDao-XiXian";
+    }
+}
+
+.related-content article.has-image .article-details {
+    background: rgba(0, 0, 0, 0.2) !important;
+}
+
+.related-content article.has-image .article-details {
+    background: rgba(0, 0, 0, 0.2) !important;
+}
+
+.article-list--tile article .article-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.article-list--tile article .article-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+
+.article-list--tile article:hover .article-image img {
+    transform: scale(1.05);
+}

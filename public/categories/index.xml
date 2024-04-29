@@ -2,42 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Kosmos (暂停施工...)</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>http://localhost:7059/categories/</link>
         <description>Recent content in Categories on Kosmos (暂停施工...)</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>kosmos</copyright>
-        <lastBuildDate>Tue, 02 Apr 2024 08:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>测试</title>
-        <link>http://localhost:1313/categories/%E6%B5%8B%E8%AF%95/</link>
+        <lastBuildDate>Tue, 02 Apr 2024 08:00:00 +0800</lastBuildDate><atom:link href="http://localhost:7059/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo</title>
+        <link>http://localhost:7059/categories/hugo/</link>
         <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <guid>http://localhost:7059/categories/hugo/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>测试</title>
+        <link>http://localhost:7059/categories/%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
+        
+        <guid>http://localhost:7059/categories/%E6%B5%8B%E8%AF%95/</guid>
         <description></description>
         </item>
         <item>
         <title>技术</title>
-        <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</link>
+        <link>http://localhost:7059/categories/%E6%8A%80%E6%9C%AF/</link>
         <pubDate>Tue, 02 Apr 2024 00:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</guid>
+        <guid>http://localhost:7059/categories/%E6%8A%80%E6%9C%AF/</guid>
         <description></description>
         </item>
         <item>
         <title>美化</title>
-        <link>http://localhost:1313/categories/%E7%BE%8E%E5%8C%96/</link>
+        <link>http://localhost:7059/categories/%E7%BE%8E%E5%8C%96/</link>
         <pubDate>Fri, 18 Aug 2023 21:29:32 +0800</pubDate>
         
-        <guid>http://localhost:1313/categories/%E7%BE%8E%E5%8C%96/</guid>
+        <guid>http://localhost:7059/categories/%E7%BE%8E%E5%8C%96/</guid>
         <description></description>
         </item>
         <item>
         <title>游戏</title>
-        <link>http://localhost:1313/categories/%E6%B8%B8%E6%88%8F%E6%8A%80%E6%9C%AF/</link>
+        <link>http://localhost:7059/categories/%E6%B8%B8%E6%88%8F%E6%8A%80%E6%9C%AF/</link>
         <pubDate>Fri, 18 Aug 2023 21:29:30 +0800</pubDate>
         
-        <guid>http://localhost:1313/categories/%E6%B8%B8%E6%88%8F%E6%8A%80%E6%9C%AF/</guid>
+        <guid>http://localhost:7059/categories/%E6%B8%B8%E6%88%8F%E6%8A%80%E6%9C%AF/</guid>
         <description>&lt;img src="https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=700&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGdhbWV8ZW58MHx8MHx8fDA%3D" alt="Featured image of post 游戏" /&gt;</description>
+        </item>
+        <item>
+        <title>LIFE</title>
+        <link>http://localhost:7059/categories/%E7%94%9F%E6%B4%BB/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:7059/categories/%E7%94%9F%E6%B4%BB/</guid>
+        <description>&lt;img src="https://plus.unsplash.com/premium_photo-1687202582806-065e0e2c8bfe?w=700&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGlmZXxlbnwwfHwwfHx8MA%3D%3D" alt="Featured image of post LIFE" /&gt;</description>
         </item>
         
     </channel>

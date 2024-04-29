@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>特教 on Kosmos (暂停施工...)</title>
-        <link>http://localhost:1313/tags/%E7%89%B9%E6%95%99/</link>
+        <link>http://localhost:7059/tags/%E7%89%B9%E6%95%99/</link>
         <description>Recent content in 特教 on Kosmos (暂停施工...)</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>kosmos</copyright>
-        <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E7%89%B9%E6%95%99/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:7059/tags/%E7%89%B9%E6%95%99/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>webgal 定制化</title>
-        <link>http://localhost:1313/p/webgal-%E5%AE%9A%E5%88%B6%E5%8C%96/</link>
+        <link>http://localhost:7059/p/webgal-%E5%AE%9A%E5%88%B6%E5%8C%96/</link>
         <pubDate>Tue, 02 Apr 2024 00:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/webgal-%E5%AE%9A%E5%88%B6%E5%8C%96/</guid>
+        <guid>http://localhost:7059/p/webgal-%E5%AE%9A%E5%88%B6%E5%8C%96/</guid>
         <description>&lt;img src="https://images.unsplash.com/photo-1713972085027-706e345e7215?w=700&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHx8" alt="Featured image of post webgal 定制化" /&gt;&lt;h1 id=&#34;webgal-配置&#34;&gt;
     &lt;a href=&#34;#webgal-%e9%85%8d%e7%bd%ae&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     webgal 配置

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Technique on Kosmos (暂停施工...)</title>
-        <link>http://localhost:1313/tags/technique/</link>
+        <link>http://localhost:7059/tags/technique/</link>
         <description>Recent content in Technique on Kosmos (暂停施工...)</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>kosmos</copyright>
-        <lastBuildDate>Fri, 18 Aug 2023 21:29:34 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/technique/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 18 Aug 2023 21:29:34 +0800</lastBuildDate><atom:link href="http://localhost:7059/tags/technique/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>破解装机</title>
-        <link>http://localhost:1313/p/%E7%A0%B4%E8%A7%A3%E8%A3%85%E6%9C%BA/</link>
+        <link>http://localhost:7059/p/%E7%A0%B4%E8%A7%A3%E8%A3%85%E6%9C%BA/</link>
         <pubDate>Fri, 18 Aug 2023 21:29:34 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E7%A0%B4%E8%A7%A3%E8%A3%85%E6%9C%BA/</guid>
+        <guid>http://localhost:7059/p/%E7%A0%B4%E8%A7%A3%E8%A3%85%E6%9C%BA/</guid>
         <description>&lt;img src="https://plus.unsplash.com/premium_photo-1713840471972-c0e7f2813383?w=700&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMnx8fGVufDB8fHx8fA%3D%3D" alt="Featured image of post 破解装机" /&gt;&lt;h1 id=&#34;游戏管理思路&#34;&gt;
     &lt;a href=&#34;#%e6%b8%b8%e6%88%8f%e7%ae%a1%e7%90%86%e6%80%9d%e8%b7%af&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     游戏管理思路
@@ -287,7 +287,7 @@
 &lt;ul&gt;
 &lt;li&gt;复制 &lt;code&gt;_nds&lt;/code&gt;, &lt;code&gt;roms&lt;/code&gt;, &lt;code&gt;BOOT.NDS&lt;/code&gt; 和 .cia 文件到 SD 卡根目录&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/box/Pasted%20image%2020230505212907.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:7059/box/Pasted%20image%2020230505212907.png&#34;
 	
 	
 	

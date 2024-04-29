@@ -2,201 +2,217 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Kosmos (暂停施工...)</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>http://localhost:7059/tags/</link>
         <description>Recent content in Tags on Kosmos (暂停施工...)</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>kosmos</copyright>
-        <lastBuildDate>Tue, 02 Apr 2024 08:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Tag 1</title>
-        <link>http://localhost:1313/tags/tag-1/</link>
+        <lastBuildDate>Tue, 02 Apr 2024 08:00:00 +0800</lastBuildDate><atom:link href="http://localhost:7059/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo</title>
+        <link>http://localhost:7059/tags/hugo/</link>
         <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/tag-1/</guid>
+        <guid>http://localhost:7059/tags/hugo/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tag 1</title>
+        <link>http://localhost:7059/tags/tag-1/</link>
+        <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
+        
+        <guid>http://localhost:7059/tags/tag-1/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag 10</title>
-        <link>http://localhost:1313/tags/tag-10/</link>
+        <link>http://localhost:7059/tags/tag-10/</link>
         <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/tag-10/</guid>
+        <guid>http://localhost:7059/tags/tag-10/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag 11</title>
-        <link>http://localhost:1313/tags/tag-11/</link>
+        <link>http://localhost:7059/tags/tag-11/</link>
         <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/tag-11/</guid>
+        <guid>http://localhost:7059/tags/tag-11/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag 12</title>
-        <link>http://localhost:1313/tags/tag-12/</link>
+        <link>http://localhost:7059/tags/tag-12/</link>
         <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/tag-12/</guid>
+        <guid>http://localhost:7059/tags/tag-12/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag 13</title>
-        <link>http://localhost:1313/tags/tag-13/</link>
+        <link>http://localhost:7059/tags/tag-13/</link>
         <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/tag-13/</guid>
+        <guid>http://localhost:7059/tags/tag-13/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag 2</title>
-        <link>http://localhost:1313/tags/tag-2/</link>
+        <link>http://localhost:7059/tags/tag-2/</link>
         <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/tag-2/</guid>
+        <guid>http://localhost:7059/tags/tag-2/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag 3</title>
-        <link>http://localhost:1313/tags/tag-3/</link>
+        <link>http://localhost:7059/tags/tag-3/</link>
         <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/tag-3/</guid>
+        <guid>http://localhost:7059/tags/tag-3/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag 4</title>
-        <link>http://localhost:1313/tags/tag-4/</link>
+        <link>http://localhost:7059/tags/tag-4/</link>
         <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/tag-4/</guid>
+        <guid>http://localhost:7059/tags/tag-4/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag 5</title>
-        <link>http://localhost:1313/tags/tag-5/</link>
+        <link>http://localhost:7059/tags/tag-5/</link>
         <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/tag-5/</guid>
+        <guid>http://localhost:7059/tags/tag-5/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag 6</title>
-        <link>http://localhost:1313/tags/tag-6/</link>
+        <link>http://localhost:7059/tags/tag-6/</link>
         <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/tag-6/</guid>
+        <guid>http://localhost:7059/tags/tag-6/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag 7</title>
-        <link>http://localhost:1313/tags/tag-7/</link>
+        <link>http://localhost:7059/tags/tag-7/</link>
         <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/tag-7/</guid>
+        <guid>http://localhost:7059/tags/tag-7/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag 8</title>
-        <link>http://localhost:1313/tags/tag-8/</link>
+        <link>http://localhost:7059/tags/tag-8/</link>
         <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/tag-8/</guid>
+        <guid>http://localhost:7059/tags/tag-8/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag 9</title>
-        <link>http://localhost:1313/tags/tag-9/</link>
+        <link>http://localhost:7059/tags/tag-9/</link>
         <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/tag-9/</guid>
+        <guid>http://localhost:7059/tags/tag-9/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>博客</title>
+        <link>http://localhost:7059/tags/%E5%8D%9A%E5%AE%A2/</link>
+        <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
+        
+        <guid>http://localhost:7059/tags/%E5%8D%9A%E5%AE%A2/</guid>
         <description></description>
         </item>
         <item>
         <title>Galgame</title>
-        <link>http://localhost:1313/tags/galgame/</link>
+        <link>http://localhost:7059/tags/galgame/</link>
         <pubDate>Tue, 02 Apr 2024 00:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/galgame/</guid>
+        <guid>http://localhost:7059/tags/galgame/</guid>
         <description></description>
         </item>
         <item>
         <title>Game</title>
-        <link>http://localhost:1313/tags/game/</link>
+        <link>http://localhost:7059/tags/game/</link>
         <pubDate>Tue, 02 Apr 2024 00:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/game/</guid>
+        <guid>http://localhost:7059/tags/game/</guid>
         <description></description>
         </item>
         <item>
         <title>特教</title>
-        <link>http://localhost:1313/tags/%E7%89%B9%E6%95%99/</link>
+        <link>http://localhost:7059/tags/%E7%89%B9%E6%95%99/</link>
         <pubDate>Tue, 02 Apr 2024 00:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/%E7%89%B9%E6%95%99/</guid>
+        <guid>http://localhost:7059/tags/%E7%89%B9%E6%95%99/</guid>
         <description></description>
         </item>
         <item>
         <title>Technique</title>
-        <link>http://localhost:1313/tags/technique/</link>
+        <link>http://localhost:7059/tags/technique/</link>
         <pubDate>Fri, 18 Aug 2023 21:29:34 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/technique/</guid>
+        <guid>http://localhost:7059/tags/technique/</guid>
         <description></description>
         </item>
         <item>
         <title>字体</title>
-        <link>http://localhost:1313/tags/%E5%AD%97%E4%BD%93/</link>
+        <link>http://localhost:7059/tags/%E5%AD%97%E4%BD%93/</link>
         <pubDate>Fri, 18 Aug 2023 21:29:32 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/%E5%AD%97%E4%BD%93/</guid>
+        <guid>http://localhost:7059/tags/%E5%AD%97%E4%BD%93/</guid>
         <description></description>
         </item>
         <item>
         <title>Nscb</title>
-        <link>http://localhost:1313/tags/nscb/</link>
+        <link>http://localhost:7059/tags/nscb/</link>
         <pubDate>Fri, 18 Aug 2023 21:29:30 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/nscb/</guid>
+        <guid>http://localhost:7059/tags/nscb/</guid>
         <description></description>
         </item>
         <item>
         <title>Switch模拟器</title>
-        <link>http://localhost:1313/tags/switch%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
+        <link>http://localhost:7059/tags/switch%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
         <pubDate>Fri, 18 Aug 2023 21:29:30 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/switch%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
+        <guid>http://localhost:7059/tags/switch%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
         <description></description>
         </item>
         <item>
         <title>Yuzu模拟器</title>
-        <link>http://localhost:1313/tags/yuzu%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
+        <link>http://localhost:7059/tags/yuzu%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
         <pubDate>Fri, 18 Aug 2023 21:29:30 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/yuzu%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
+        <guid>http://localhost:7059/tags/yuzu%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
         <description></description>
         </item>
         <item>
         <title>教程</title>
-        <link>http://localhost:1313/tags/%E6%95%99%E7%A8%8B/</link>
+        <link>http://localhost:7059/tags/%E6%95%99%E7%A8%8B/</link>
         <pubDate>Fri, 18 Aug 2023 21:29:30 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/%E6%95%99%E7%A8%8B/</guid>
+        <guid>http://localhost:7059/tags/%E6%95%99%E7%A8%8B/</guid>
         <description></description>
         </item>
         <item>
         <title>Wiiu</title>
-        <link>http://localhost:1313/tags/wiiu/</link>
+        <link>http://localhost:7059/tags/wiiu/</link>
         <pubDate>Fri, 18 Aug 2023 21:29:27 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/wiiu/</guid>
+        <guid>http://localhost:7059/tags/wiiu/</guid>
         <description></description>
         </item>
         <item>
         <title>模拟器</title>
-        <link>http://localhost:1313/tags/%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
+        <link>http://localhost:7059/tags/%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
         <pubDate>Fri, 18 Aug 2023 21:29:27 +0800</pubDate>
         
-        <guid>http://localhost:1313/tags/%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
+        <guid>http://localhost:7059/tags/%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
         <description></description>
         </item>
         

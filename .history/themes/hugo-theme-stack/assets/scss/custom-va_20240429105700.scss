@@ -1,0 +1,20 @@
+$defaultTagBackgrounds: #de694c, #d80835, #c59ac5, #2874af, #192159, #1c8d6c, #468c37, #895d31, #a55e5e, #8e44ad, #7b899b, #556270, #274e6e, #4a8126, #7f6d2c, #4e5b55, #2e4051, #c06c70, #BF360C, #E65100, #5D4037, #795548, #43A047, #1976D2, #455A64, #78909C, #DD2C00;
+
+// Font
+:root {
+    --base-font-family: "QiushuiShotai Bright", var(--sys-font-family), var(--zh-font-family), sans-serif;
+    --category-font: "Yozai";
+    --mono-font: "LXGW WenKai Mono";
+}
+
+:root {
+    --shadow-tag: 0 4px 6px rgba(0, 0, 0, 0.2), 0 1px 4px rgba(0, 0, 0, 0.08);
+    --shadow-active: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+    --shadow-l2: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+// 
+
+:root {
+    --card-border-radius: 20px;
+}

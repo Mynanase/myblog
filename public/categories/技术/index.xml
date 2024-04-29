@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>技术 on Kosmos (暂停施工...)</title>
-        <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</link>
+        <link>http://localhost:7059/categories/%E6%8A%80%E6%9C%AF/</link>
         <description>Recent content in 技术 on Kosmos (暂停施工...)</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>kosmos</copyright>
-        <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:7059/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>webgal 定制化</title>
-        <link>http://localhost:1313/p/webgal-%E5%AE%9A%E5%88%B6%E5%8C%96/</link>
+        <link>http://localhost:7059/p/webgal-%E5%AE%9A%E5%88%B6%E5%8C%96/</link>
         <pubDate>Tue, 02 Apr 2024 00:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/webgal-%E5%AE%9A%E5%88%B6%E5%8C%96/</guid>
+        <guid>http://localhost:7059/p/webgal-%E5%AE%9A%E5%88%B6%E5%8C%96/</guid>
         <description>&lt;img src="https://images.unsplash.com/photo-1713972085027-706e345e7215?w=700&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHx8" alt="Featured image of post webgal 定制化" /&gt;&lt;h1 id=&#34;webgal-配置&#34;&gt;
     &lt;a href=&#34;#webgal-%e9%85%8d%e7%bd%ae&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     webgal 配置
@@ -225,10 +225,10 @@ BGM: 逐渐加快, 紧促 (&lt;strong&gt;锐锐推荐深海中的曲子&lt;/stro
         </item>
         <item>
         <title>Wiiu破解和模拟器</title>
-        <link>http://localhost:1313/p/wiiu%E7%A0%B4%E8%A7%A3%E5%92%8C%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
+        <link>http://localhost:7059/p/wiiu%E7%A0%B4%E8%A7%A3%E5%92%8C%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
         <pubDate>Fri, 18 Aug 2023 21:29:27 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/wiiu%E7%A0%B4%E8%A7%A3%E5%92%8C%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
+        <guid>http://localhost:7059/p/wiiu%E7%A0%B4%E8%A7%A3%E5%92%8C%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
         <description>&lt;img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=700&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2FtZSUyMGNvbnNvbGV8ZW58MHx8MHx8fDA%3D" alt="Featured image of post Wiiu破解和模拟器" /&gt;&lt;h1 id=&#34;cemu模拟器游戏安装配置&#34;&gt;
     &lt;a href=&#34;#cemu%e6%a8%a1%e6%8b%9f%e5%99%a8%e6%b8%b8%e6%88%8f%e5%ae%89%e8%a3%85%e9%85%8d%e7%bd%ae&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     Cemu模拟器游戏安装配置

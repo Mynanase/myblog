@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Kosmos (暂停施工...)</title>
-        <link>http://localhost:1313/post/</link>
+        <link>http://localhost:7059/post/</link>
         <description>Recent content in Posts on Kosmos (暂停施工...)</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>kosmos</copyright>
-        <lastBuildDate>Tue, 02 Apr 2024 08:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 02 Apr 2024 08:00:00 +0800</lastBuildDate><atom:link href="http://localhost:7059/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>hugo 博客搭建</title>
-        <link>http://localhost:1313/p/hugo-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+        <link>http://localhost:7059/p/hugo-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
         <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/hugo-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+        <guid>http://localhost:7059/p/hugo-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
         <description>&lt;img src="https://plus.unsplash.com/premium_photo-1713803863170-436be4feb510?w=700&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8" alt="Featured image of post hugo 博客搭建" /&gt;&lt;p&gt;&lt;strong&gt;更新计划&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 评论系统&lt;/li&gt;
@@ -282,10 +282,10 @@ page 文件夹. 像主页, 关于等组件, &lt;a class=&#34;link&#34; href=&#34
         </item>
         <item>
         <title>测试</title>
-        <link>http://localhost:1313/p/%E6%B5%8B%E8%AF%95/</link>
+        <link>http://localhost:7059/p/%E6%B5%8B%E8%AF%95/</link>
         <pubDate>Tue, 02 Apr 2024 08:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E6%B5%8B%E8%AF%95/</guid>
+        <guid>http://localhost:7059/p/%E6%B5%8B%E8%AF%95/</guid>
         <description>&lt;img src="https://images.unsplash.com/photo-1714248375935-b6d60e280ed2?w=700&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyM3x8fGVufDB8fHx8fA%3D%3D" alt="Featured image of post 测试" /&gt;&lt;h1 id=&#34;链接&#34;&gt;
     &lt;a href=&#34;#%e9%93%be%e6%8e%a5&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     链接
@@ -328,10 +328,10 @@ page 文件夹. 像主页, 关于等组件, &lt;a class=&#34;link&#34; href=&#34
         </item>
         <item>
         <title>webgal 定制化</title>
-        <link>http://localhost:1313/p/webgal-%E5%AE%9A%E5%88%B6%E5%8C%96/</link>
+        <link>http://localhost:7059/p/webgal-%E5%AE%9A%E5%88%B6%E5%8C%96/</link>
         <pubDate>Tue, 02 Apr 2024 00:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/webgal-%E5%AE%9A%E5%88%B6%E5%8C%96/</guid>
+        <guid>http://localhost:7059/p/webgal-%E5%AE%9A%E5%88%B6%E5%8C%96/</guid>
         <description>&lt;img src="https://images.unsplash.com/photo-1713972085027-706e345e7215?w=700&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHx8" alt="Featured image of post webgal 定制化" /&gt;&lt;h1 id=&#34;webgal-配置&#34;&gt;
     &lt;a href=&#34;#webgal-%e9%85%8d%e7%bd%ae&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     webgal 配置
@@ -544,10 +544,10 @@ BGM: 逐渐加快, 紧促 (&lt;strong&gt;锐锐推荐深海中的曲子&lt;/stro
         </item>
         <item>
         <title>破解装机</title>
-        <link>http://localhost:1313/p/%E7%A0%B4%E8%A7%A3%E8%A3%85%E6%9C%BA/</link>
+        <link>http://localhost:7059/p/%E7%A0%B4%E8%A7%A3%E8%A3%85%E6%9C%BA/</link>
         <pubDate>Fri, 18 Aug 2023 21:29:34 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E7%A0%B4%E8%A7%A3%E8%A3%85%E6%9C%BA/</guid>
+        <guid>http://localhost:7059/p/%E7%A0%B4%E8%A7%A3%E8%A3%85%E6%9C%BA/</guid>
         <description>&lt;img src="https://plus.unsplash.com/premium_photo-1713840471972-c0e7f2813383?w=700&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMnx8fGVufDB8fHx8fA%3D%3D" alt="Featured image of post 破解装机" /&gt;&lt;h1 id=&#34;游戏管理思路&#34;&gt;
     &lt;a href=&#34;#%e6%b8%b8%e6%88%8f%e7%ae%a1%e7%90%86%e6%80%9d%e8%b7%af&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     游戏管理思路
@@ -822,7 +822,7 @@ BGM: 逐渐加快, 紧促 (&lt;strong&gt;锐锐推荐深海中的曲子&lt;/stro
 &lt;ul&gt;
 &lt;li&gt;复制 &lt;code&gt;_nds&lt;/code&gt;, &lt;code&gt;roms&lt;/code&gt;, &lt;code&gt;BOOT.NDS&lt;/code&gt; 和 .cia 文件到 SD 卡根目录&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/box/Pasted%20image%2020230505212907.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:7059/box/Pasted%20image%2020230505212907.png&#34;
 	
 	
 	
@@ -866,10 +866,10 @@ BGM: 逐渐加快, 紧促 (&lt;strong&gt;锐锐推荐深海中的曲子&lt;/stro
         </item>
         <item>
         <title>好用的字体</title>
-        <link>http://localhost:1313/p/%E5%A5%BD%E7%94%A8%E7%9A%84%E5%AD%97%E4%BD%93/</link>
+        <link>http://localhost:7059/p/%E5%A5%BD%E7%94%A8%E7%9A%84%E5%AD%97%E4%BD%93/</link>
         <pubDate>Fri, 18 Aug 2023 21:29:32 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E5%A5%BD%E7%94%A8%E7%9A%84%E5%AD%97%E4%BD%93/</guid>
+        <guid>http://localhost:7059/p/%E5%A5%BD%E7%94%A8%E7%9A%84%E5%AD%97%E4%BD%93/</guid>
         <description>&lt;img src="https://plus.unsplash.com/premium_photo-1669837324386-1813fcc28947?w=700&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNnx8fGVufDB8fHx8fA%3D%3D" alt="Featured image of post 好用的字体" /&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -1244,10 +1244,10 @@ BGM: 逐渐加快, 紧促 (&lt;strong&gt;锐锐推荐深海中的曲子&lt;/stro
         </item>
         <item>
         <title>yuzu模拟器</title>
-        <link>http://localhost:1313/p/yuzu%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
+        <link>http://localhost:7059/p/yuzu%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
         <pubDate>Fri, 18 Aug 2023 21:29:30 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/yuzu%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
+        <guid>http://localhost:7059/p/yuzu%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
         <description>&lt;img src="https://images.unsplash.com/photo-1550921464-9f7a27f99edc?w=700&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHN3aXRjaHxlbnwwfHwwfHx8MA%3D%3D" alt="Featured image of post yuzu模拟器" /&gt;&lt;h1 id=&#34;yuzu模拟器配置&#34;&gt;
     &lt;a href=&#34;#yuzu%e6%a8%a1%e6%8b%9f%e5%99%a8%e9%85%8d%e7%bd%ae&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     yuzu模拟器配置
@@ -1551,10 +1551,10 @@ upd 和 DLC 的安装点击 文件 :luc_arrow_big_right: 安装在 nand 进行�
         </item>
         <item>
         <title>Wiiu破解和模拟器</title>
-        <link>http://localhost:1313/p/wiiu%E7%A0%B4%E8%A7%A3%E5%92%8C%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
+        <link>http://localhost:7059/p/wiiu%E7%A0%B4%E8%A7%A3%E5%92%8C%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
         <pubDate>Fri, 18 Aug 2023 21:29:27 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/wiiu%E7%A0%B4%E8%A7%A3%E5%92%8C%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
+        <guid>http://localhost:7059/p/wiiu%E7%A0%B4%E8%A7%A3%E5%92%8C%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
         <description>&lt;img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=700&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2FtZSUyMGNvbnNvbGV8ZW58MHx8MHx8fDA%3D" alt="Featured image of post Wiiu破解和模拟器" /&gt;&lt;h1 id=&#34;cemu模拟器游戏安装配置&#34;&gt;
     &lt;a href=&#34;#cemu%e6%a8%a1%e6%8b%9f%e5%99%a8%e6%b8%b8%e6%88%8f%e5%ae%89%e8%a3%85%e9%85%8d%e7%bd%ae&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     Cemu模拟器游戏安装配置

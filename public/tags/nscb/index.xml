@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Nscb on Kosmos (暂停施工...)</title>
-        <link>http://localhost:1313/tags/nscb/</link>
+        <link>http://localhost:7059/tags/nscb/</link>
         <description>Recent content in Nscb on Kosmos (暂停施工...)</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>kosmos</copyright>
-        <lastBuildDate>Fri, 18 Aug 2023 21:29:30 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/nscb/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 18 Aug 2023 21:29:30 +0800</lastBuildDate><atom:link href="http://localhost:7059/tags/nscb/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>yuzu模拟器</title>
-        <link>http://localhost:1313/p/yuzu%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
+        <link>http://localhost:7059/p/yuzu%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
         <pubDate>Fri, 18 Aug 2023 21:29:30 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/yuzu%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
+        <guid>http://localhost:7059/p/yuzu%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
         <description>&lt;img src="https://images.unsplash.com/photo-1550921464-9f7a27f99edc?w=700&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHN3aXRjaHxlbnwwfHwwfHx8MA%3D%3D" alt="Featured image of post yuzu模拟器" /&gt;&lt;h1 id=&#34;yuzu模拟器配置&#34;&gt;
     &lt;a href=&#34;#yuzu%e6%a8%a1%e6%8b%9f%e5%99%a8%e9%85%8d%e7%bd%ae&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     yuzu模拟器配置
